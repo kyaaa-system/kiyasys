@@ -1,0 +1,12 @@
+{
+  "name": "uts-live-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo live Yahoo Finance untuk 100 saham Kompas100 (bukan artefak UTS)",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node dev-server.js"
+  }
+}
